@@ -1,0 +1,6 @@
+http://tfs.bentley.com/tfs/ProductLine/Field/InspectTech/_workItems/index?_a=edit&id=560166&triage=true
+
+
+
+
+in internal administration when we change any setting then the page is redirected to first page always
